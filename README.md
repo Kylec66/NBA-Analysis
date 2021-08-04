@@ -1,5 +1,6 @@
 # Project-1 write up
 2016-2017, 2017-2018 (Kyle Carlson)
+
 How were the ages broken down per team in 2016-17?
 The ages for the 2016-17 finals teams were Cleveland with a 25.5 avg with golden state having an older team with a 28 avg. With Cleveland’s guards being 2 years older and their forwards and centers being 2.5 years younger.  Golden state won and there showed to be little correlation between age being a deciding factor and more of a play style mismatch.
 
