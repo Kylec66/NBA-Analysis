@@ -24,4 +24,10 @@ Through the age grouping by position, guards were the most common in terms of ha
 Why did the Raptors win?
 The Raptors won because they played a more strategic approach to roster construction, rather than the Warriors relying on the relatively the same type for several years. For the two previous finals, the Warriors roster was highly reliant on two position groups and almost completely ignored the other. They were also slowly increasing in mean age at both. Toronto on the other hand, prioritized creating a “complete team” that had diverse payroll distribution to all three positions, while also being cost-effective to a core of young forwards, and landing established veterans at center that brought more experience and range to a loaded offense that could score and defend in way more ways than the Warriors could with their group.
 
+NBA Payrolls vs Performance (Chris Christensen)
 
+Is there a correlation between wins and the percent salary cap used?
+Doing a scatter plot of the percent salary cap used vs the number of wins from the 1990-91 season to the 2018-19 season there was no correlation.  I decided to offset the number of wins by 3 years to allow for program development. Still no correlation. After looking at which teams with the lowest cost per wins it appeared that there was a slight correlation with simply the number of wins, arguing that team payrolls had vary little affect on the number of wins. More analyses would be need to see why some teams are more cost effective than others
+
+Do teams with the highest paid player have a high percentage of wining championships?
+Out of the teams that won a championship from 1991 to  2019, less than 13% of them had the highest paid player in the NBA.
