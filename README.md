@@ -21,7 +21,6 @@ How did each team break down their salary in 2017-18?
 In 2017 golden state stuck to their same strategy from the year prior and doubled down on paying forwards and guards making up 88% of their roster and centers getting even fewer total percent of the salary cap. Cleveland also did a similar strategy from the year prior and brought in more expensive, experienced, centers into the roster to overcome their deficiencies from the year prior. They paid their centers 30% of their cap total to maintain their playstyle and still failed to achieve their NBA championship.
 
 ![image](https://user-images.githubusercontent.com/83102597/145463989-0e4beb44-83ea-4e5d-9747-ad51c576b8b0.png) 
-
 ![image](https://user-images.githubusercontent.com/83102597/145463922-7a697927-d695-40ec-b665-336fc772f9e5.png)
 
 For the 2018-19 Finals (Tyler Christian)
