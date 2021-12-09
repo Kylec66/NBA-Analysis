@@ -27,9 +27,12 @@ For the 2018-19 Finals (Tyler Christian)
 
 How are the payrolls distributed?
 In regard to payroll distribution, it was not surprising to see how much money was given to guards, given the dependence on small-ball players in the modern NBA. It was very interesting to learn how Toronto wisely spent their money for all three main position groups, while the Warriors placed extremely little emphasis on centers. Both payroll distribution and roster construction are highly subjective to all NBA team front offices, but it was nice to see the comparison between one team focused on small ball and the other taking a more even position approach.
+![image](https://user-images.githubusercontent.com/83102597/145464528-7f4ade11-c558-40ee-afeb-f1c224859cfe.png)
+![image](https://user-images.githubusercontent.com/83102597/145464558-8d3b74cd-9d6c-4018-9426-37535cc3c5ca.png)
 
 What are the variations in ages per each player position?
 Through the age grouping by position, guards were the most common in terms of having similar ages, which was in the late 20s. However, like the payrolls section, there were big differences between forwards and centers. The Warriors’ forwards were slightly younger than the guards, but Toronto had a collective group that was several years younger in terms of mean age. Lastly, the center position age group featured the most gaping difference between the two teams. Toronto’s group was the oldest out of all mean age amounts in all of the combined datasets. However it proved big in that the high amount invested in the position was key to creating more variety in their schemes than that of the Warriors.
+![image](https://user-images.githubusercontent.com/83102597/145464597-656ddd61-b6d3-46ed-805b-5a43453a63ea.png)
 
 Why did the Raptors win?
 The Raptors won because they played a more strategic approach to roster construction, rather than the Warriors relying on the relatively the same type for several years. For the two previous finals, the Warriors roster was highly reliant on two position groups and almost completely ignored the other. They were also slowly increasing in mean age at both. Toronto on the other hand, prioritized creating a “complete team” that had diverse payroll distribution to all three positions, while also being cost-effective to a core of young forwards, and landing established veterans at center that brought more experience and range to a loaded offense that could score and defend in way more ways than the Warriors could with their group.
