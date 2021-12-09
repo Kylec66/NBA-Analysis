@@ -4,11 +4,13 @@
 
 How were the ages broken down per team in 2016-17?
 The ages for the 2016-17 finals teams were Cleveland with a 25.5 avg with golden state having an older team with a 28 avg. With Cleveland’s guards being 2 years older and their forwards and centers being 2.5 years younger.  Golden state won and there showed to be little correlation between age being a deciding factor and more of a play style mismatch.
+
 ![image](https://user-images.githubusercontent.com/83102597/145464207-84a33ae6-de2c-47d6-a4c6-cfaa25f94a83.png)
 
 
 How did each team break down their salary in 2016-17?
 In 2016 golden state had a salary distribution much different from Cleveland in their team building where they prioritized forwards in 2016 making up 55% of their roster while centers only made up 8%. Cleveland spent 18% on their center position demonstrating a difference in play style and it is reflected in their salary breakdown.
+
 ![image](https://user-images.githubusercontent.com/83102597/145464142-aaa3c2ea-8add-4d61-8c81-990adf1e6546.png)
 ![image](https://user-images.githubusercontent.com/83102597/145464163-9fb34af3-0771-4cdb-9f23-485bb7e8cfbc.png)
 
