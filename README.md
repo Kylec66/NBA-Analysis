@@ -4,15 +4,22 @@
 
 How were the ages broken down per team in 2016-17?
 The ages for the 2016-17 finals teams were Cleveland with a 25.5 avg with golden state having an older team with a 28 avg. With Cleveland’s guards being 2 years older and their forwards and centers being 2.5 years younger.  Golden state won and there showed to be little correlation between age being a deciding factor and more of a play style mismatch.
+![image](https://user-images.githubusercontent.com/83102597/145464207-84a33ae6-de2c-47d6-a4c6-cfaa25f94a83.png)
+
 
 How did each team break down their salary in 2016-17?
 In 2016 golden state had a salary distribution much different from Cleveland in their team building where they prioritized forwards in 2016 making up 55% of their roster while centers only made up 8%. Cleveland spent 18% on their center position demonstrating a difference in play style and it is reflected in their salary breakdown.
+![image](https://user-images.githubusercontent.com/83102597/145464142-aaa3c2ea-8add-4d61-8c81-990adf1e6546.png)
+![image](https://user-images.githubusercontent.com/83102597/145464163-9fb34af3-0771-4cdb-9f23-485bb7e8cfbc.png)
 
 How were the ages broken down per team in 2017-18?
 The ages for the 2017-18 finals teams were Cleveland added some veteran players at the forward position and the center position with the avg for both going up 5 years from the year prior. Golden state had an influx of younger players with their avg dropping at the guard and forward spot by 2 years. Golden state won and there showed to be little correlation between age being a deciding factor and more of a play style mismatch.
+![image](https://user-images.githubusercontent.com/83102597/145464256-6e05c4cc-0b45-4d2e-928d-ec1a337009e1.png)
 
 How did each team break down their salary in 2017-18?
 In 2017 golden state stuck to their same strategy from the year prior and doubled down on paying forwards and guards making up 88% of their roster and centers getting even fewer total percent of the salary cap. Cleveland also did a similar strategy from the year prior and brought in more expensive, experienced, centers into the roster to overcome their deficiencies from the year prior. They paid their centers 30% of their cap total to maintain their playstyle and still failed to achieve their NBA championship.
+![image](https://user-images.githubusercontent.com/83102597/145463989-0e4beb44-83ea-4e5d-9747-ad51c576b8b0.png) 
+![image](https://user-images.githubusercontent.com/83102597/145463922-7a697927-d695-40ec-b665-336fc772f9e5.png)
 
 For the 2018-19 Finals (Tyler Christian)
 
@@ -28,7 +35,9 @@ The Raptors won because they played a more strategic approach to roster construc
 NBA Payrolls vs Performance (Chris Christensen)
 
 Is there a correlation between wins and the percent salary cap used?
-Doing a scatter plot of the percent salary cap used vs the number of wins from the 1990-91 season to the 2018-19 season there was no correlation.  I decided to offset the number of wins by 3 years to allow for program development. Still no correlation. After looking at which teams with the lowest cost per wins it appeared that there was a slight correlation with simply the number of wins, arguing that team payrolls had vary little affect on the number of wins. More analyses would be need to see why some teams are more cost effective than others
+Doing a scatter plot of the percent salary cap used vs the number of wins from the 1990-91 season to the 2018-19 season there was no correlation.  I decided to offset the number of wins by 3 years to allow for program development. Still no correlation. After looking at which teams with the lowest cost per wins it appeared that there was a slight correlation with simply the number of wins, arguing that team payrolls had vary little affect on the number of wins. More analyses would be need to see why some teams are more cost effective than others.
+
+![image](https://user-images.githubusercontent.com/83102597/145463811-177de28f-baaf-4ea0-a7f4-1dc03822ef89.png)
 
 Do teams with the highest paid player have a high percentage of wining championships?
 Out of the teams that won a championship from 1991 to  2019, less than 13% of them had the highest paid player in the NBA.
