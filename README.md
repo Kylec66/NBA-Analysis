@@ -1,4 +1,5 @@
-# Project-1 write up
+# NBA Analysis 
+
 2016-2017, 2017-2018 (Kyle Carlson)
 
 How were the ages broken down per team in 2016-17?
