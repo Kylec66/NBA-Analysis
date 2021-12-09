@@ -30,4 +30,4 @@ Is there a correlation between wins and the percent salary cap used?
 Doing a scatter plot of the percent salary cap used vs the number of wins from the 1990-91 season to the 2018-19 season there was no correlation.  I decided to offset the number of wins by 3 years to allow for program development. Still no correlation. After looking at which teams with the lowest cost per wins it appeared that there was a slight correlation with simply the number of wins, arguing that team payrolls had vary little affect on the number of wins. More analyses would be need to see why some teams are more cost effective than others
 
 Do teams with the highest paid player have a high percentage of wining championships?
-Out of the teams that won a championship from 1991 to  2019, less than 13% of them had the highest paid player in the 
+Out of the teams that won a championship from 1991 to  2019, less than 13% of them had the highest paid player in the NBA.
