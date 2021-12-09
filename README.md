@@ -14,11 +14,14 @@ In 2016 golden state had a salary distribution much different from Cleveland in 
 
 How were the ages broken down per team in 2017-18?
 The ages for the 2017-18 finals teams were Cleveland added some veteran players at the forward position and the center position with the avg for both going up 5 years from the year prior. Golden state had an influx of younger players with their avg dropping at the guard and forward spot by 2 years. Golden state won and there showed to be little correlation between age being a deciding factor and more of a play style mismatch.
+
 ![image](https://user-images.githubusercontent.com/83102597/145464256-6e05c4cc-0b45-4d2e-928d-ec1a337009e1.png)
 
 How did each team break down their salary in 2017-18?
 In 2017 golden state stuck to their same strategy from the year prior and doubled down on paying forwards and guards making up 88% of their roster and centers getting even fewer total percent of the salary cap. Cleveland also did a similar strategy from the year prior and brought in more expensive, experienced, centers into the roster to overcome their deficiencies from the year prior. They paid their centers 30% of their cap total to maintain their playstyle and still failed to achieve their NBA championship.
+
 ![image](https://user-images.githubusercontent.com/83102597/145463989-0e4beb44-83ea-4e5d-9747-ad51c576b8b0.png) 
+
 ![image](https://user-images.githubusercontent.com/83102597/145463922-7a697927-d695-40ec-b665-336fc772f9e5.png)
 
 For the 2018-19 Finals (Tyler Christian)
