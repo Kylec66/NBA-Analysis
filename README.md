@@ -1,6 +1,6 @@
 # NBA Analysis 
 
-2016-2017, 2017-2018 (Kyle Carlson)
+#### 2016-2017, 2017-2018 (Kyle Carlson)
 
 How were the ages broken down per team in 2016-17?
 The ages for the 2016-17 finals teams were Cleveland with a 25.5 avg with golden state having an older team with a 28 avg. With Cleveland’s guards being 2 years older and their forwards and centers being 2.5 years younger.  Golden state won and there showed to be little correlation between age being a deciding factor and more of a play style mismatch.
@@ -25,7 +25,7 @@ In 2017 golden state stuck to their same strategy from the year prior and double
 ![image](https://user-images.githubusercontent.com/83102597/145463989-0e4beb44-83ea-4e5d-9747-ad51c576b8b0.png) 
 ![image](https://user-images.githubusercontent.com/83102597/145463922-7a697927-d695-40ec-b665-336fc772f9e5.png)
 
-For the 2018-19 Finals (Tyler Christian)
+#### For the 2018-19 Finals (Tyler Christian)
 
 How are the payrolls distributed?
 In regard to payroll distribution, it was not surprising to see how much money was given to guards, given the dependence on small-ball players in the modern NBA. It was very interesting to learn how Toronto wisely spent their money for all three main position groups, while the Warriors placed extremely little emphasis on centers. Both payroll distribution and roster construction are highly subjective to all NBA team front offices, but it was nice to see the comparison between one team focused on small ball and the other taking a more even position approach.
@@ -41,13 +41,26 @@ Through the age grouping by position, guards were the most common in terms of ha
 Why did the Raptors win?
 The Raptors won because they played a more strategic approach to roster construction, rather than the Warriors relying on the relatively the same type for several years. For the two previous finals, the Warriors roster was highly reliant on two position groups and almost completely ignored the other. They were also slowly increasing in mean age at both. Toronto on the other hand, prioritized creating a “complete team” that had diverse payroll distribution to all three positions, while also being cost-effective to a core of young forwards, and landing established veterans at center that brought more experience and range to a loaded offense that could score and defend in way more ways than the Warriors could with their group.
 
-NBA Payrolls vs Performance (Chris Christensen)
+#### NBA Payrolls vs Performance (Chris Christensen)
 
-Is there a correlation between wins and the percent salary cap used?
+###### Is there a correlation between wins and the percent salary cap used?
 
-Doing a scatter plot of the percent salary cap used vs the number of wins from the 1990-91 season to the 2018-19 season there was no correlation. There was a stronger correlation between wins and win/cost efficiency than there was between cost and number of wins, arguing that team payrolls had vary little affect on the number of wins and simply having more wins improves the win/cost efficiency. A scatter plot of Salary Cap Used Vs Wins Offset by 3 Years to see if giving teams more time to build a program would help. Still little to no correlation. More analyses would be needed to see why some teams are more cost effective than others.
+Doing a scatter plot of the percent salary cap used vs the number of wins from the 1990-91 season to the 2018-19 season there was no correlation. 
 
-Do teams with the highest paid player have a high percentage of wining championships?
+![NBA Percent Salary Cap Used vs Wins from 1990-91 to 2018-19.png](https://github.com/Kylec66/NBA-Analysis/blob/main/NBA%20Payrolls%20Vs%20Performance%20Charts/NBA%20Percent%20Salary%20Cap%20Used%20vs%20Wins%20from%201990-91%20to%202018-19.png?raw=true)
+
+There was a stronger correlation between wins and win/cost efficiency, arguing that team payrolls had vary little affect on the number of wins. 
+
+![Total Wins Vs Cost Per Win Efficiency.png](https://github.com/Kylec66/NBA-Analysis/blob/main/NBA%20Payrolls%20Vs%20Performance%20Charts/Total%20Wins%20Vs%20Cost%20Per%20Win%20Efficiency.png?raw=true)
+
+A scatter plot of Salary Cap Used Vs Wins Offset by 3 was performed in order to see if giving teams more time to build a program would help, but the results still show basically no correlation.
+
+![% Salary Cap Used Vs Wins Offset by 3 Years (1990-91 to 2018-2019).png](https://github.com/Kylec66/NBA-Analysis/blob/main/NBA%20Payrolls%20Vs%20Performance%20Charts/%25%20Salary%20Cap%20Used%20Vs%20Wins%20Offset%20by%203%20Years%20(1990-91%20to%202018-2019).png?raw=true)
+
+More analyses would be needed to see why some teams are more cost effective than others.
+
+###### Do teams with the highest paid player have a high percentage of wining championships?
 
 Out of the teams that won a championship from 1991 to  2019, less than 15% of them had the highest paid player in the NBA, suggesting that having the highest paid player does not favor an NBA Championship.
 
+![Number of wins with highest paid player.png](https://github.com/Kylec66/NBA-Analysis/blob/main/NBA%20Payrolls%20Vs%20Performance%20Charts/Number%20of%20wins%20with%20highest%20paid%20player.png?raw=true)
