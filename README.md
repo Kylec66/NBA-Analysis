@@ -44,10 +44,10 @@ The Raptors won because they played a more strategic approach to roster construc
 NBA Payrolls vs Performance (Chris Christensen)
 
 Is there a correlation between wins and the percent salary cap used?
-Doing a scatter plot of the percent salary cap used vs the number of wins from the 1990-91 season to the 2018-19 season there was no correlation. There was a stronger correlation between wins and win/cost efficiency than there was between cost and number of wins, arguing that team payrolls had vary little affect on the number of wins and simply having more wins improves the win/cost efficieny. A scatter plot of Salary Cap Used Vs Wins Offset by 3 Years to see if giving teams more time to build a program would help. Still little to no correlation. More analyses would be needed to see why some teams are more cost effective than others.
 
-![image](https://user-images.githubusercontent.com/83102597/145463811-177de28f-baaf-4ea0-a7f4-1dc03822ef89.png)
+Doing a scatter plot of the percent salary cap used vs the number of wins from the 1990-91 season to the 2018-19 season there was no correlation. There was a stronger correlation between wins and win/cost efficiency than there was between cost and number of wins, arguing that team payrolls had vary little affect on the number of wins and simply having more wins improves the win/cost efficiency. A scatter plot of Salary Cap Used Vs Wins Offset by 3 Years to see if giving teams more time to build a program would help. Still little to no correlation. More analyses would be needed to see why some teams are more cost effective than others.
 
 Do teams with the highest paid player have a high percentage of wining championships?
+
 Out of the teams that won a championship from 1991 to  2019, less than 15% of them had the highest paid player in the NBA, suggesting that having the highest paid player does not favor an NBA Championship.
 
