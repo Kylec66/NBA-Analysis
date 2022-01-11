@@ -57,7 +57,7 @@ A scatter plot of Salary Cap Used Vs Wins Offset by 3 was performed in order to 
 
 ![% Salary Cap Used Vs Wins Offset by 3 Years (1990-91 to 2018-2019).png](https://github.com/Kylec66/NBA-Analysis/blob/main/NBA%20Payrolls%20Vs%20Performance%20Charts/%25%20Salary%20Cap%20Used%20Vs%20Wins%20Offset%20by%203%20Years%20(1990-91%20to%202018-2019).png?raw=true)
 
-More analyses would be needed to see why some teams are more cost effective than others.
+More analyses would be needed to verify why some teams are more cost effective than others.
 
 ###### Do teams with the highest paid player have a high percentage of wining championships?
 
